@@ -14,6 +14,7 @@
 |     **Обновления сервера**| https://moonwell.su/ru/updates      |
 |     **Быстрый старт**| https://moonwell.su/ru/about-fast-start   |
 |     **Донат**| https://moonwell.su/ru/shop    |
+|     **Ссылка discord**| https://discord.gg/2rF59cz   |
   
 
 ## [**Создать багрепорт**](https://github.com/wowmw/bugtracker/issues/new?assignees=&labels=%E3%85%A4&projects=&template=bugreportarussian.yml&title=%E3%85%A4)
@@ -33,6 +34,7 @@
 |     **Server updates**| https://moonwell.su/en/updates      |
 |     **Fast start**| https://moonwell.su/en/about-fast-start   |
 |     **Donate shop**| https://moonwell.su/en/shop    |
+|     **Discord link**| https://discord.gg/2rF59cz   |
   
 
 ## [**Create a new bug report**](https://github.com/wowmw/bugtracker/issues/new?assignees=&labels=%E3%85%A4&projects=&template=bugreportenglish.yml&title=%E3%85%A4)
