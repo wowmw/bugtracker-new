@@ -32,9 +32,9 @@ body:
     validations:
       required: true
   - type: textarea
-    id: kak-vosproizvesti-bag
+    id: kak-vosproizvesti-bag1
     attributes:
-      label: Как воспроизвести баг?
+      label: Как воспроизвести баг?1
       description: Укажите последовательность действия для воспроизведения бага. База данных https://db.moonwell.su/
   - type: textarea
     id: suggested-workaround
