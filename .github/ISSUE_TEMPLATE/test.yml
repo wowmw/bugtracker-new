@@ -5,7 +5,7 @@ labels: "Info: Needs Replication"
 body:
   - type: markdown
     attributes:
-      value: asdasdad
+      value: аваы
   - type: textarea
     id: dsadasdad
     attributes:
