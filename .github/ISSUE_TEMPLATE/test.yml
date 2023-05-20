@@ -56,3 +56,10 @@ body:
         - 2.4.3 (5ая фаза. The Sunwell Plateau. Arena season - 4)
     validations:
       required: true
+       - type: textarea
+    id: kakaya-obnova
+    attributes:
+      label: После какого обновления появился баг?
+      description: Укажите обновление из списка - https://moonwell.su/ru/updates
+    validations:
+      required: true
