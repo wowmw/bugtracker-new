@@ -34,8 +34,8 @@ body:
   - type: textarea
     id: kak-doljno-rabotat
     attributes:
-      label: Expected behavior
-      description: Describe what you should see instead
+      label: Как должно работать?
+      description: Опишите корректную работоспособность. Для источников работоспособности используйте - https://wowpedia.fandom.com и https://www.wowhead.com . Для уточнения на внутриигровые предметы используйте: https://db.moonwell.su/ как ссылки на вещи, заклинания и НПС.
   - type: textarea
     id: suggested-workaround
     attributes:
