@@ -5,12 +5,12 @@ labels: "Info: Needs Replication"
 body:
   - type: markdown
     attributes:
-      value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал
+      value: asdasdad
   - type: textarea
     id: Описание багрепорта
     attributes:
-      label: Описание багрепорта
-      description: Опишите обнаруженный баг, укажите в своем описании как можно больше подробностей
+      label: asdasd
+      description: asdasdads
     validations:
       required: true
   - type: textarea
