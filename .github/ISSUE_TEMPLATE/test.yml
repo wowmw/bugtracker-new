@@ -35,7 +35,7 @@ body:
     id: kak-doljno-rabotat
     attributes:
       label: Как должно работать?
-      description: Опишите корректную работоспособность. Для источников работоспособности используйте - https://wowpedia.fandom.com и https://www.wowhead.com . Для уточнения на внутриигровые предметы используйте: https://db.moonwell.su/ как ссылки на вещи, заклинания и НПС.
+      description: Опишите корректную работоспособность.
   - type: textarea
     id: suggested-workaround
     attributes:
