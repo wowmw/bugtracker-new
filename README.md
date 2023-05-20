@@ -20,7 +20,11 @@
 |     **Описание багрепорта**| Curse of tongues не правильное время наложения на игроков.|
 |     **Как воспроизвести баг?**| Необходимо использовать https://db.moonwell.su/?spell=11719 на другого игрока.   |
 |     **Как должно работать?**| Заклинание должно накладываться на 12 секунд, а не на 10 секунд. https://wowpedia.fandom.com/wiki/Curse_of_Tongues?so=search. Patch 2.1.0 (2007-05-22): Now has a 12 second duration when used on PvP targets.      |
-|     **Дополнительная информация: скриншоты, видео.**| Добавьте скриншот и/или видео в случае необходимости.     |
+|     **Дополнительная информация: скриншоты, видео.**| ![изображение](https://github.com/wowmw/bugtracker/assets/124041313/625854df-cec3-4e0c-91c3-7d57a064f28b)    |
+  
+
+## [**Создать багрепорт**](https://github.com/wowmw/bugtracker/issues/new/choose)
+
   </details>
   
 
