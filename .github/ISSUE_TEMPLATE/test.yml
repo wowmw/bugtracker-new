@@ -7,7 +7,7 @@ body:
     attributes:
       value: asdasdad
   - type: textarea
-    id: Описание багрепорта
+    id: dsadasdad
     attributes:
       label: asdasd
       description: asdasdads
