@@ -9,12 +9,12 @@ body:
   - type: textarea
     id: Opisanie-bagreporta
     attributes:
-      label: Описание багрепорта.
+      label: Описание багрепорта
       description: Опишите обнаруженный багрепорт, укажите в своем описании как можно больше подробностей.
     validations:
       required: true
   - type: textarea
-    id: steps-to-reproduce
+    id: kak-vosproizvesti
     attributes:
       label: Steps to Reproduce
       description: Provide the exact steps that can be used to reproduce the issue
