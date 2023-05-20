@@ -10,7 +10,7 @@ body:
     id: Opisanie
     attributes:
       label: Описание багрепорта
-      description: asdasdads
+      description: Описание багрепорта
     validations:
       required: true
   - type: textarea
