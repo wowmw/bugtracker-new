@@ -1,0 +1,52 @@
+name: 📩  Bug report
+description: Create a new bug report to improve our server
+title: "ㅤ"
+labels: "ㅤ"
+body:
+  - type: markdown
+    attributes:
+      value: Before writing about the bug, please make sure that no one has reported it yet.
+  - type: textarea
+    id: kakaya-obnova
+    attributes:
+      label: After which update did the bug appear?
+      description: Specify the update from the list - https://moonwell.su/ru/updates
+    validations:
+      required: true
+  - type: textarea
+    id: Opisanie-bagreporta
+    attributes:
+      label: Description of the bug report
+      description: Describe the detected bug report, specify as many details as possible in your description.
+    validations:
+      required: true
+  - type: textarea
+    id: kak-vosproizvesti-bag
+    attributes:
+      label: How to reproduce the bug?
+      description: Specify the sequence of actions to reproduce the bug. Database https://db.moonwell.su/
+      value: |
+        1.
+        2.
+        3.
+        4.
+        5.
+        6.
+        7.
+        8.
+        9.
+        10.
+    validations:
+      required: true
+  - type: textarea
+    id: kak-doljno-rabotat
+    attributes:
+      label: How should it work?
+      description: Use official resources https://wowpedia .fandom.com and https://www.wowhead.com/
+    validations:
+      required: true
+  - type: textarea
+    id: dopolnitelnaya-informacia
+    attributes:
+      label: Additional information, screenshots and videos
+      description: Use hosting https://dropmefiles.com
