@@ -32,10 +32,10 @@ body:
     validations:
       required: true
   - type: textarea
-    id: Opisanie-bagreporta1
+    id: kak-doljno-rabotat
     attributes:
-      label: Описание багрепорта1
-      description: Опишите обнаруженный багрепорт, укажите в своем описании как можно больше подробностей.
+      label: Как должно работать?
+      description: Используйте оффициальные источники https://wowpedia.fandom.com и https://www.wowhead.com/
     validations:
       required: true
   - type: textarea
