@@ -36,12 +36,9 @@ body:
     attributes:
       label: Как должно работать?
       description: Используйте оффициальные источники https://wowpedia.fandom.com и https://www.wowhead.com/
-      validations:
-    id: suggested-workaround
-    attributes:
-      label: Suggested Workaround
-      description: If you have a workaround please let us know
-  - type: textarea
+     validations:
+      required: true
+ - type: textarea
     id: crash-log
     attributes:
       label: Crash Log
