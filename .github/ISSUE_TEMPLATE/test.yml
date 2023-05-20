@@ -7,7 +7,7 @@ body:
     attributes:
       value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал.
   - type: textarea
-    id: Описание багрепорта
+    id: "Описание багрепорта"
     attributes:
       label: asdasd
       description: asdasdads
