@@ -13,11 +13,11 @@ body:
       description: Опишите обнаруженный багрепорт, укажите в своем описании как можно больше подробностей.
     validations:
       required: true
-  - type: textarea
-    id: kak-vosproizvesti-bag
+ - type: textarea
+    id: steps-to-reproduce
     attributes:
-      label: Как воспроизвести баг
-      description: Укажите точную последовательность действий как воспроизвести баг.
+      label: Steps to Reproduce
+      description: Provide the exact steps that can be used to reproduce the issue
      value: |
         1.
         2.
