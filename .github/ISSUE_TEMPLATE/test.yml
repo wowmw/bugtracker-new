@@ -41,7 +41,7 @@ body:
   - type: textarea
     id: dopolnitelnaya-informacia
     attributes:
-      label: Дополнительная информация: скриншоты, видео
+      label: Дополнительная информация
       description: Используйте хостинг https://dropmefiles.com
   - type: textarea
     id: crash-log
