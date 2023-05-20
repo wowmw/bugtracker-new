@@ -36,6 +36,8 @@ body:
     attributes:
       label: Как воспроизвести баг?1
       description: Укажите последовательность действия для воспроизведения бага. База данных https://db.moonwell.su/
+     validations:
+      required: true
   - type: textarea
     id: suggested-workaround
     attributes:
