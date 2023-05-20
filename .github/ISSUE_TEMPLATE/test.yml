@@ -36,6 +36,8 @@ body:
     attributes:
       label: Как должно работать?
       description: Используйте оффициальные источники https://wowpedia.fandom.com и https://www.wowhead.com/
+    validations:
+      required: true 
   - type: textarea
     id: suggested-workaround
     attributes:
