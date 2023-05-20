@@ -36,6 +36,10 @@ body:
     attributes:
       label: Как должно работать?
       description: Опишите корректную работоспособность.
+       value: |
+        1. Используйте
+        2.
+        3.
   - type: textarea
     id: suggested-workaround
     attributes:
