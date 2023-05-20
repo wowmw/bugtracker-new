@@ -39,10 +39,10 @@ body:
     validations:
       required: true 
   - type: textarea
-    id: suggested-workaround
+    id: dopolnitelnaya-informacia
     attributes:
-      label: Suggested Workaround
-      description: If you have a workaround please let us know
+      label: Дополнительная информация: скриншоты, видео
+      description: Используйте хостинг https://dropmefiles.com
   - type: textarea
     id: crash-log
     attributes:
