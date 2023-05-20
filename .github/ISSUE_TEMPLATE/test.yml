@@ -16,8 +16,8 @@ body:
   - type: textarea
     id: kak-vosproizvesti
     attributes:
-      label: Steps to Reproduce
-      description: Provide the exact steps that can be used to reproduce the issue
+      label: Как воспроизвести баг?
+      description: Укажите последовательность действия для воспроизведения бага. Используйте ссылки на вещи, заклинания и НПС с базы данных https://db.moonwell.su/
       value: |
         1.
         2.
