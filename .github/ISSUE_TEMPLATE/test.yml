@@ -37,9 +37,7 @@ body:
       label: Как должно работать?
       description: Опишите корректную работоспособность.
        value: |
-        1. Используйте
-        2.
-        3.
+        "Используйте"
   - type: textarea
     id: suggested-workaround
     attributes:
