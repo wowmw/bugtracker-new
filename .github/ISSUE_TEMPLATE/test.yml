@@ -5,12 +5,12 @@ labels: "Info: Needs Replication"
 body:
   - type: markdown
     attributes:
-      value: Before raising an issue, please search for existing issues to avoid creating duplicates.
+      value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал.
   - type: textarea
-    id: bug-details
+    id: Описание багрепорта
     attributes:
-      label: Bug Details
-      description: Summarize the bug encountered, provide as many details in your description as possible
+      label: Описание багрепорта
+      description: Опишите обнаруженный баг, укажите в своем описании как можно больше подробностей.
     validations:
       required: true
   - type: textarea
