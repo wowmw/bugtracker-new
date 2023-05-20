@@ -43,7 +43,7 @@ body:
     attributes:
       label: Дополнительная информация, скриншоты и видео
       description: Используйте хостинг https://dropmefiles.com
-      - type: dropdown
+   - type: dropdown
     id: client-version
     attributes:
       label: Игровая версия патча
