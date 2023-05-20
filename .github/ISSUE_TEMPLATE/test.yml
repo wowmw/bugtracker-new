@@ -36,13 +36,13 @@ body:
     attributes:
       label: Как должно работать?
       description: Используйте оффициальные источники https://wowpedia.fandom.com и https://www.wowhead.com/
-    validations:
+     validations:
       required: true 
-  - type: textarea
-    id: dopolnitelnaya-informacia
+ - type: textarea
+    id: suggested-workaround
     attributes:
-      label: Дополнительная информация: скриншоты, видео
-      description: Используйте хостинг https://dropmefiles.com
+      label: Suggested Workaround
+      description: If you have a workaround please let us know
   - type: textarea
     id: crash-log
     attributes:
