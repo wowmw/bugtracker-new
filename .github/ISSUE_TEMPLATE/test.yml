@@ -5,7 +5,7 @@ labels: "Info: Needs Replication"
 body:
   - type: markdown
     attributes:
-      value: аваы
+      value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал.
   - type: textarea
     id: dsadasdad
     attributes:
