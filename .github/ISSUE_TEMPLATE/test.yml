@@ -17,7 +17,7 @@ body:
     id: kak-vosproizvesti-bag
     attributes:
       label: Как воспроизвести баг?
-      description: Укажите последовательность действия для воспроизведения бага. База данных для использования https://db.moonwell.su/
+      description: Укажите последовательность действия для воспроизведения бага. База данных https://db.moonwell.su/
       value: |
         1.
         2.
