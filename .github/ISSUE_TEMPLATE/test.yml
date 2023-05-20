@@ -3,7 +3,7 @@ description: Создайте баг репорт для улучшения се
 title: "ㅤ"
 labels: "ㅤ"
 body:
-  - type: opisanie
+  - type: Opisanie-bagreporta
     attributes:
       value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал.
   - type: textarea
