@@ -14,11 +14,11 @@ body:
     validations:
       required: true
   - type: textarea
-    id: steps-to-reproduce
+    id: kak-vosproizvesti-bag
     attributes:
-      label: Steps to Reproduce
-      description: Provide the exact steps that can be used to reproduce the issue
-      value: |
+      label: Как воспроизвести баг?
+      description: Укажите точную последовательность действий как воспроизвести баг. Используйте ссылки на вещи, заклинания и НПС с базы данных https://db.moonwell.su/
+     value: |
         1.
         2.
         3.
