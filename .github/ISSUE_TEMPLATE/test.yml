@@ -7,10 +7,10 @@ body:
     attributes:
       value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал.
   - type: textarea
-    id: Opisanie bugreporta
+    id: Opisanie-bagreporta
     attributes:
-      label: Описание багрепорта
-      description: Опишите обнаруженный багрепорт, укажите в своем описании как можно больше подробностей
+      label: Описание багрепорта.
+      description: Опишите обнаруженный багрепорт, укажите в своем описании как можно больше подробностей.
     validations:
       required: true
   - type: textarea
