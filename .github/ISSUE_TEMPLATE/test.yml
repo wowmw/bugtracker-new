@@ -1,7 +1,7 @@
 name: "\U0001F4E9 Баг репорт"
 description: Создайте баг репорт для улучшения сервера
-title: ''
-labels: ''
+title: "\U0001F4E9 Баг репорт"
+labels: 'Info: Needs Replication'
 body:
   - type: markdown
     attributes:
