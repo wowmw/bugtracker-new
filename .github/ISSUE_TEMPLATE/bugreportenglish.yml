@@ -10,7 +10,7 @@ body:
     id: kakaya-obnova
     attributes:
       label: After which update did the bug appear?
-      description: Specify the update from the list - https://moonwell.su/ru/updates
+      description: Specify the update from the list - https://moonwell.su/en/updates
     validations:
       required: true
   - type: textarea
