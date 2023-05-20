@@ -1,7 +1,7 @@
 name: 📩ㅤ Баг репорт
 description: Создайте баг репорт для улучшения сервера
 title: "ㅤ"
-labels: "Info: Needs Replication"
+labels: "ㅤ"
 body:
   - type: markdown
     attributes:
