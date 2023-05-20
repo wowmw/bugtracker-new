@@ -1,4 +1,4 @@
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://imageup.ru/img41/4345695/novyi-proekt.jpg"><source media="(prefers-color-scheme: light)" srcset="https://imageup.ru/img41/4345695/novyi-proekt.jpg"><img alt="Moonwell TBC LOGO" src="https://imageup.ru/img41/4345695/novyi-proekt.jpg"></picture>[**MOONWELL TBC**](https://moonwell.su/) :tm: 
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://moonwell.su/template/favicons/favicon-sm.png"><source media="(prefers-color-scheme: light)" srcset="https://moonwell.su/template/favicons/favicon-sm.png"><img alt="Moonwell TBC LOGO" src="https://moonwell.su/template/favicons/favicon-sm.png"></picture>[**MOONWELL TBC**](https://moonwell.su/) :tm: 
 
 ---
 <details>
