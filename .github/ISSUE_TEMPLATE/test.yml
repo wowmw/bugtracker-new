@@ -7,9 +7,9 @@ body:
     attributes:
       value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал.
   - type: textarea
-    id: qwe
+    id: Opisanie
     attributes:
-      label: asdasd
+      label: Описание багрепорта
       description: asdasdads
     validations:
       required: true
