@@ -13,12 +13,12 @@ body:
       description: Опишите обнаруженный багрепорт, укажите в своем описании как можно больше подробностей.
     validations:
       required: true
- - type: textarea
+  - type: textarea
     id: steps-to-reproduce
     attributes:
       label: Steps to Reproduce
       description: Provide the exact steps that can be used to reproduce the issue
-     value: |
+      value: |
         1.
         2.
         3.
