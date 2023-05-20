@@ -6,8 +6,6 @@ body:
   - type: markdown
     attributes:
       value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал.
-    attributes:
-      value: Before raising an issue, please search for existing issues to avoid creating duplicates.
  - type: textarea
     id: bug-details
     attributes:
