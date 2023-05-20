@@ -31,12 +31,12 @@ body:
         10.
     validations:
       required: true
-  - type: textarea
+ - type: textarea
     id: kak-doljno-rabotat
     attributes:
       label: Как должно работать?
       description: Используйте оффициальные источники https://wowpedia.fandom.com и https://www.wowhead.com/
-     validations:
+    validations:
       required: true
  - type: textarea
     id: crash-log
