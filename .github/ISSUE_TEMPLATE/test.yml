@@ -9,8 +9,8 @@ body:
   - type: textarea
     id: Opisanie bugreporta
     attributes:
-      label: Описание багрепорта.
-      description: Опишите обнаруженный багрепорт, укажите в своем описании как можно больше подробностей.
+      label: Описание багрепорта
+      description: Опишите обнаруженный багрепорт, укажите в своем описании как можно больше подробностей
     validations:
       required: true
   - type: textarea
