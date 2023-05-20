@@ -35,9 +35,7 @@ body:
     id: kak-doljno-rabotat
     attributes:
       label: Как должно работать?
-      description: Опишите корректную работоспособность.
-       value: |
-        "Используйте"
+      description: Опишите корректную работоспособность. Используйте источники: https://wowpedia.fandom.com и https://www.wowhead.com/
   - type: textarea
     id: suggested-workaround
     attributes:
