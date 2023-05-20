@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: Прежде чем писать о баге, пожалуйста, убедитесь, что о нем еще никто не сообщал.
-    - type: dropdown
+  - type: dropdown
     id: client-version
     attributes:
       label: Игровая версия патча
