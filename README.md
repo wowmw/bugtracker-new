@@ -22,7 +22,7 @@
   </details>
   
   <details>
-<summary> What is a bug tracker and how does it work?</summary>
+<summary> What is a bugtracker and how does it work?</summary>
   
 :heavy_check_mark: Bugtracker is a place where all the bugs and errors of our server and website are collected. Its main purpose is to systematize tracking of all bugs so that it is easy for us to process and fix them.
   
