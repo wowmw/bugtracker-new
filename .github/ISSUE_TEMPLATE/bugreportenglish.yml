@@ -42,7 +42,7 @@ body:
     id: kak-doljno-rabotat
     attributes:
       label: How should it work?
-      description: Use official resources https://wowpedia .fandom.com and https://www.wowhead.com/
+      description: Use official resources https://wowpedia.fandom.com and https://www.wowhead.com/
     validations:
       required: true
   - type: textarea
