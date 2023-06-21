@@ -17,7 +17,7 @@
 |     **Ссылка discord**| https://discord.gg/2rF59cz   |
   
 
-## [**Создать багрепорт**](https://github.com/wowmw/bugtracker/issues/new?assignees=&labels=%E3%85%A4&projects=&template=bugreportarussian.yml&title=%E3%85%A4)
+## [**Создать багрепорт**](https://github.com/wowmw/bugtracker-new/issues/new/choose)
 
   </details>
   
@@ -37,7 +37,7 @@
 |     **Discord link**| https://discord.gg/2rF59cz   |
   
 
-## [**Create a new bug report**](https://github.com/wowmw/bugtracker-new/issues/new?assignees=&labels=%E3%85%A4&projects=&template=bugreportarussian.yml&title=%E3%85%A4)
+## [**Create a new bug report**](https://github.com/wowmw/bugtracker-new/issues/new/choose)
 
   </details>
   
